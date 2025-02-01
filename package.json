@@ -1,0 +1,12 @@
+{
+    "name": "@thomas-alrek/ipod-photo-database",
+    "description": "A library for reading iPod Photo Database format and converting iThmb files to JPEG.",
+    "keywords": [
+        "ipod",
+        "photo",
+        "database",
+        "ithmb"
+    ],
+    "homepage": "https://github.com/thomas-alrek/ipod-photo-database",
+    "license": "MIT"
+}
